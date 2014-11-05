@@ -292,4 +292,6 @@
     <string name="cannot_load_image" msgid="4100136187076585580">"이미지를 로드할 수 없습니다."</string>
     <string name="switch_photo_filmstrip" msgid="1448511001008888767">"슬라이드 보기"</string>
     <string name="setting_wallpaper" msgid="2397759659347872725">"배경화면 설정 중"</string>
+
+    <string name="pref_camera_picturesize_entry_6mp">600만 화소</string>
 </resources>
